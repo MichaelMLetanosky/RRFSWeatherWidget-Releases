@@ -1,7 +1,7 @@
 {
-  "versionCode": 30,
-  "versionName": "0.30.0",
-  "apkUrl": "https://github.com/MichaelMLetanosky/RRFSWeatherWidget-Releases/releases/download/v0.30.0/rrfs-weather.apk",
-  "sha256": "3df3bb8b073d853b65ff034c95ef22a753423fce73eb63bc62fafda81e816d0f",
-  "notes": "RRFS Weather Widget version 0.30.0"
+  "versionCode": 31,
+  "versionName": "0.31.0",
+  "apkUrl": "https://github.com/MichaelMLetanosky/RRFSWeatherWidget-Releases/releases/download/v0.31.0/rrfs-weather.apk",
+  "sha256": "03fa6d9746ea452cb5708ab5af78034c9b11019a64826398c40c52e2edee79e9",
+  "notes": "RRFS Weather Widget version 0.31.0"
 }
